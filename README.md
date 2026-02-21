@@ -4,7 +4,7 @@ Este repositorio contiene archivos para un proyecto didáctico simple: una pági
 
 ## Resumen
 
-- Nombre: Sitio estático de ejemplo
+- Nombre: Sitio estwático de ejemplo
 - Propósito: Proveer una base mínima para mostrar contenido estático (un blog simple), practicar servir archivos locales y organizar recursos multimedia.
 - Fecha: 21-02-2026
 
